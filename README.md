@@ -12,7 +12,7 @@ I'm from India and currently a student at Vellore Institute of Technology, Bhopa
 </p>
 
 ### Social Handles
-<p><a href="https://www.linkedin.com/in/yashvardhan-singh-06077620b/"><img width="24px" src="https://github.com/yvs2701/yvs2701/blob/main/linkedIn.png"></img></a></p>
+<p><a href="https://www.linkedin.com/in/yashv27/"><img width="24px" src="https://github.com/yvs2701/yvs2701/blob/main/linkedIn.png"></img></a></p>
 <!--
 Here are some ideas to get you started:
 
