@@ -10,6 +10,9 @@ I'm from India and currently a student at Vellore Institute of Technology, Bhopa
 <img height="200px" src = "https://github-readme-stats.vercel.app/api?username=yvs2701&show_icons=true&theme=monokai" ></img>
 <img height="200px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yvs2701&layout=compact&theme=monokai" ></img>
 </p>
+
+### Social Handles
+<p><a href="https://www.linkedin.com/in/yashvardhan-singh-06077620b/"><img width="24px" src="https://github.com/yvs2701/yvs2701/blob/main/linkedIn.png"></img></a></p>
 <!--
 Here are some ideas to get you started:
 
