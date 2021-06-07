@@ -12,7 +12,11 @@ I'm from India and currently a student at Vellore Institute of Technology, Bhopa
 </p>
 
 ### Social Handles
-<p><a href="https://www.linkedin.com/in/yashv27/"><img width="24px" src="https://github.com/yvs2701/yvs2701/blob/main/linkedIn.png"></img></a></p>
+<p>
+  <a href="https://www.linkedin.com/in/yashv27/"><img width="24px" src="https://github.com/yvs2701/yvs2701/blob/main/linkedIn.png"></img></a>
+  <!--<br>
+  <a href="https://stackoverflow.com/users/16084581/yashv"><img src="https://stackoverflow.com/users/flair/16084581.png?theme=dark" width="208" height="58" alt="profile for Yashv at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Yashv at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>-->
+</p>
 <!--
 Here are some ideas to get you started:
 
