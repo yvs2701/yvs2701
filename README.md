@@ -7,8 +7,8 @@ I'm from India and currently a student at Vellore Institute of Technology, Bhopa
 
 ## Github Stats
 <p align="center">
-<img height="172px" src = "https://github-readme-stats.vercel.app/api?username=yvs2701&show_icons=true&theme=monokai" ></img>
-<img height="172px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yvs2701&layout=compact&theme=monokai" ></img>
+<img height="172px" src = "https://github-readme-stats.vercel.app/api?username=yvs2701&count_private=true&show_icons=true&theme=dracula" ></img>
+<img height="172px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yvs2701&layout=compact&theme=dracula" ></img>
 </p>
 
 ### Social Handles
