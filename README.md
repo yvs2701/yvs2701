@@ -1,4 +1,4 @@
-### <p align="center">Hey everyone<!--<img src="./wave.gif" width="24px">--></img></p>
+### <p align="center">Hey everyone <img src="./wave.gif" height="24px"></img></p>
 <p align="center">My name is Yashvardhan Singh... and</p>
 <h2 align="center">You can call me Yash</h2>
 
