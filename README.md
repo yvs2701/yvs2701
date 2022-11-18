@@ -1,6 +1,6 @@
 ## Hey everyone <img src="./wave.gif" height="24px"></img> nice to see you !!
 - 🌱 #SaveSoil
-- 🙋🏽 I am **Yahvardhan Singh**, you can call me **Yash**.
+- 🙋🏽 I am **Yashvardhan Singh**, you can call me **Yash**.
 - 🧑🏽‍💻 I am a computer science student at Vellore Institute of Technology, Bhopal, pursuing majors in AI and ML.
 - 💻 Skilled at developing scalable Web Apps.
 - 📜 In my free time I read about a wide variety of topics ranging from mathematics to world history, from geopolitics to poetry, and more.
