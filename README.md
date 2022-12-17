@@ -7,8 +7,10 @@
 
 ## Github Stats
 <p align="center">
-<img height="172px" src = "https://github-readme-stats.vercel.app/api?username=yvs2701&count_private=true&show_icons=true&theme=dracula" ></img>
-<img height="172px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yvs2701&layout=compact&theme=dracula" ></img>
+<img alt="contributions" width="436px" src="https://github-readme-stats.vercel.app/api?username=yvs2701&count_private=true&show_icons=true&theme=dracula"></img>
+<img alt="top languages" width="364px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvs2701&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=dracula"></img>
+<br>
+<img alt="contributions in last week" width="800px" src="https://github-contribution-graph.ez4o.com/?username=yvs2701&last_n_days=7&img_url=https%3A%2F%2Fraw.githubusercontent.com%2Fyvs2701%2Fyvs2701%2Fmain%2Fassets%2FSkillWordcloud.png"></img>
 </p>
 
 ### You can find me on
@@ -17,7 +19,11 @@
 <!-- <a href="https://stackoverflow.com/users/16084581/yashv"><img src="https://stackoverflow.com/users/flair/16084581.png?theme=dark" width="208" height="58" alt="profile for Yashv at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Yashv at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
 ### Tools I use
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[![MERN Stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,next)](https://skillicons.dev) \
+[![Most used](https://skillicons.dev/icons?i=java,javascript,python,cpp)](https://skillicons.dev) \
+[![Frontend](https://skillicons.dev/icons?i=css,html,tailwind)](https://skillicons.dev) \
+[![Ubuntu](https://skillicons.dev/icons?i=vscode,linux)](https://skillicons.dev)
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -29,4 +35,4 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) \
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
