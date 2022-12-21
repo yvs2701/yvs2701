@@ -8,7 +8,7 @@
 ## Github Stats
 <p align="center">
 <img alt="contributions" width="436px" src="https://github-readme-stats.vercel.app/api?username=yvs2701&count_private=true&show_icons=true&theme=dracula"></img>
-<img alt="top languages" width="364px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvs2701&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=dracula"></img>
+<img alt="top languages" width="364px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvs2701&hide=html&langs_count=6&layout=compact&theme=dracula"></img>
 <br>
 <img alt="contributions in last week" width="800px" src="https://github-contribution-graph.ez4o.com/?username=yvs2701&last_n_days=7&img_url=https%3A%2F%2Fraw.githubusercontent.com%2Fyvs2701%2Fyvs2701%2Fmain%2Fassets%2FSkillWordcloud.png"></img>
 </p>
