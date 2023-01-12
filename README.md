@@ -7,8 +7,8 @@
 
 ## Github Stats
 <p align="center">
-<img alt="contributions" width="436px" src="https://github-readme-stats.vercel.app/api?username=yvs2701&count_private=true&show_icons=true&theme=dracula"></img>
-<img alt="top languages" width="364px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvs2701&hide=html&langs_count=6&layout=compact&theme=dracula"></img>
+<img alt="contributions" width="436px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yvs2701&count_private=true&show_icons=true&theme=dracula"></img>
+<img alt="top languages" width="364px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yvs2701&hide=html&langs_count=6&layout=compact&theme=dracula"></img>
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yvs2701&theme=dracula" width="650px">
 <br>
