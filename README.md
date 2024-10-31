@@ -3,7 +3,7 @@
 
 - 🌱 #SaveSoil
 - 🙋🏽 I am **Yashvardhan Singh**, you can call me **Yash**.
-- 🧑🏽‍💻 I am a computer science student at Vellore Institute of Technology, Bhopal, pursuing majors in AI and ML.
+- 🧑🏽‍💻 I am a computer science graduate from Vellore Institute of Technology, Bhopal, with majors in AI and ML.
 - 💻 Skilled at developing scalable Web Apps.
 - 📜 In my free time I read about a wide variety of topics ranging from mathematics to world history, from geopolitics to poetry, and more.
 
