@@ -1,5 +1,5 @@
 ![Intro Banner](./assets/Intro%20Banner.png)
-# Hey everyone <img src="./assets/wave.gif" height="24px"></img> nice to see you
+# Hey everyone <img src="./assets/wave.gif" height="24px" width="24px"></img> nice to see you
 
 - 🌱 #SaveSoil
 - 🙋🏽 I am **Yashvardhan Singh**, you can call me **Yash**.
